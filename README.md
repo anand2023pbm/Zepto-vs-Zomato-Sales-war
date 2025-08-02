@@ -1,3 +1,9 @@
+## Credits
+
+This project was inspired by a Power BI learning project shared by [Reshma Mhadlekar](https://github.com/ReshmaJagade-tech/MY-First-Power-Bi-Project). Her work on comparing Zepto and Blinkit provided a great starting point for this analysis.
+
+
+
 ## 📌 Description
 
 **"Grocery Store War: Zepto vs Blinkit"** is an interactive and visually rich Power BI dashboard project that compares the performance of two major grocery delivery platforms in India — **Zepto** and **Blinkit**.
